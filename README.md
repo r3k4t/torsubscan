@@ -5,7 +5,7 @@
 ![Screenshot_2020-12-28_09-01-50](https://user-images.githubusercontent.com/69615463/103188282-d1d86180-48ed-11eb-899d-6882ba04e6bd.png)
 
 
-TorSubScan is a Tor Network Subdomain Scanner Tool.Its build on python program.It can help to scan any site subdomain from Tor network.
+TorSubScan is a Tor Network Subdomain Scanner Tool.Its build on python program.It can help to scan any site subdomain from tor network.
 
 
 ### Setup ###
